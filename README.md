@@ -1,5 +1,3 @@
-##### Pentru vizualizarea acestui fisier recomand https://markdown-editor.github.io/
-
 # Preambul
 
 Pentru aceasta tema am ales sa fac o implementare putin mai generala a cli-ului
@@ -144,17 +142,5 @@ Mai jos aveti efectul aplicarii unei astfel de operatii de fill pe o imagine
 descarcata de pe net ce cred eu ca ilustreaza bine cat de puternica este
 aceasta implementare (si da, poate si sa umple toata imaginea blank.bmp)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/VNI97t5"
-data-context="false">
-  <a href="//imgur.com/a/VNI97t5"></a>
-</blockquote>
-<script async src="//s.imgur.com/min/embed.js"charset="utf-8">
-</script>
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/wODLZFo"
-data-context="false">
-  <a href="//imgur.com/a/wODLZFo"></a>
-</blockquote>
-<script async src="//s.imgur.com/min/embed.js" charset="utf-8">
-</script>
-
+![before-image](https://imgur.com/a/VNI97t5)
+![after-image](https://imgur.com/a/wODLZFo)
