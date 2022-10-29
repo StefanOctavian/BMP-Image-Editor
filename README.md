@@ -142,5 +142,5 @@ Mai jos aveti efectul aplicarii unei astfel de operatii de fill pe o imagine
 descarcata de pe net ce cred eu ca ilustreaza bine cat de puternica este
 aceasta implementare (si da, poate si sa umple toata imaginea blank.bmp)
 
-![before-image](https://imgur.com/a/VNI97t5)
-![after-image](https://imgur.com/a/wODLZFo)
+![before-image](https://i.imgur.com/uoXBU5P.png)
+![after-image](https://i.imgur.com/Vuebr0V.png)
